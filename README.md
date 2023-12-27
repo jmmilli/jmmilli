@@ -4,4 +4,5 @@
 
 - <b>Data Structures and Algorithms Practice </b>
   - [Word Ladder](https://github.com/jmmilli/Word-Ladder)
+  - [BFS Practice Problems](https://github.com/jmmilli/BFS-Practice-Problems)
 
